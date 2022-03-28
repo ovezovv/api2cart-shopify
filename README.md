@@ -1,4 +1,4 @@
-## Adding Shopify to API2CART:
+# Adding Shopify to API2CART:
 API2Cart provides a single API to integrate with many shopping platforms, including industry leaders like Shopify, Magento, WooCommerce, Bigcommerce, Volusion, PrestaShop, OpenCart, and others.
 
 ### Shopify Custom App Setup
