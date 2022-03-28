@@ -28,7 +28,9 @@ API2Cart provides a single API to integrate with many shopping platforms, includ
       - Enter to the ***Products*** section from the sidebar menu and click on the ***Add product*** button.
       - Fill in mainly required fields with raw info (for example: Title, Description, Pricing, Weight).
       - After filling change ***Product status*** from ***Draft*** to ***Active*** in the right sidebar on top of the page. As it is shown below:
+
       ![Screen Shot 2022-03-28 at 19 23 06](https://user-images.githubusercontent.com/39469199/160438562-88f4661c-f399-4024-b53d-e38192888a65.png)
+      
       - Click on Save button.
 
    2. ***Make an sample order for testing***
