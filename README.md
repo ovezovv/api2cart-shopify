@@ -8,6 +8,7 @@ API2Cart provides a single API to integrate with many shopping platforms, includ
 ***PRE-REQUISITIES***  
 1. Creating an account in Shopify Partners Platform  ***https://partners.shopify.com***
     *Note: Make sure you have completed email verification.*
+2. Download `ngrok` from ***https://ngrok.com/download*** for local development.
     
 ***
 
