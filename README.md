@@ -43,7 +43,7 @@ API2Cart provides a single API to integrate with many shopping platforms, includ
 
 ***CREATING SHOPIFY CUSTOM APP***
 1. Enter to the Shopify Partners ***https://partners.shopify.com***
-2. Click on the **Create app** button and choose **Public app** type.
+2. Click on the **Create app** button and choose **Custom app** type.
 3. Fill in the **App name** and type `http://localhost` in **App URL** and **Allowed redirection URL(s)**.
 4. After creating an app, copy **API key** and **API secret key** into custom app project's `.env`. It should be shown below image.
 
